@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/estilo/cssportfolio.css" />
+
+    <title>Portfolio brayan</title>
+  </head>
+
+  <body>
+    <a href="#">
+      <div class="logo"><img src="./imagens/rosca.jpg" /></div>
+    </a>
+
+    <div class="center">
+      <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Serviços</a>
+        <a href="#">Sobre</a>
+        <a href="#">Contato</a>
+      </div>
+    </div>
+
+    <div class="center2">
+      <div class="sub">
+        <div class="apresentacao">
+          <h1>Ola me chamo Brayon</h1>
+          <a> sou Progamador</a>
+        </div>
+      </div>
+      <div class="logo2"><img src="./imagens/homer.jpg" /></div>
+    </div>
+  </body>
+</html>
